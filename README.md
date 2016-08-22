@@ -1,8 +1,7 @@
 # 开心农场
 ## Members:
 ### 
-* [刘咏彬](https://www.github.com/williamking5)
-* [肖年浩](https://www.github.com/nianhao)
+[![Build Status](https://github.com/oucfarm/farm/blob/master/shiyan1.svg](https://www.github.com/williamking5)
 
 ## Description
 ### 这是一个类似于QQ开心农场的网络小游戏，可以单用户/多用户玩，可以种菜、偷菜、去商店买种子等等。
